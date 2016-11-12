@@ -1,0 +1,12 @@
+{
+	"latest": {
+		"version": "3.0"
+	},
+
+	"versions": {
+		"3.0": {
+			"downloadUrl": "https://github.com/licks92/WirelessRedstone/releases/download/v3.0/WirelessRedstone.jar",
+			"changelog": "#Rewrite the plugin. #Updatesome technical mechanics."
+		}
+	}
+}
