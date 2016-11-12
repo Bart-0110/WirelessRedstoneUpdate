@@ -5,11 +5,13 @@
 
 	"versions": {
 		"3.0.0": {
-			"downloadUrl": "https:\/\/github.com\/licks92\/WirelessRedstone\/releases\/download\/v3.0.0\/WirelessRedstone.jar",
+			"downloadUrl": "#",
+			"directDownloadUrl": "#",
 			"changelog": "#Rewrite the plugin. #Update some technical mechanics."
 		},
 		"2.6.5": {
-			"downloadUrl": "https:\/\/github.com\/licks92\/WirelessRedstone\/releases\/download\/v2.6.5\/WirelessRedstone.jar",
+			"downloadUrl": "https:\/\/dev.bukkit.org\/bukkit-plugins\/wireless-redstone\/files\/45-wireless-redstone-v2-6-5\/",
+			"directDownloadUrl": "https:\/\/dev.bukkit.org\/media\/files\/955\/81\/WirelessRedstone.jar",
 			"changelog": "#Fix first-start issue."
 		}
 	}
