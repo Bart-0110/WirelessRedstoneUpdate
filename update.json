@@ -6,9 +6,18 @@
 
 	"versions": {
 		"3.0.0": {
+			"spigot": {
+				"downloadUrl": "#",
+				"directDownloadUrl": "#"
+			},
+			"bukkit": {
+				"downloadUrl": "#",
+				"directDownloadUrl": "#"
+			},
 			"changelog": "#Rewrite the plugin. #Update some technical mechanics."
 		},
 		"2.6.7": {
+			
 			"spigot": {
 				"downloadUrl": "https://www.spigotmc.org/resources/wireless-redstone.8251/update?update=126406",
 				"directDownloadUrl": "https://www.spigotmc.org/resources/wireless-redstone.8251/download?version=124785"
