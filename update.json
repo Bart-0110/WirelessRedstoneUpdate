@@ -34,21 +34,10 @@
 				"directDownloadUrl": "https://www.spigotmc.org/resources/wireless-redstone.8251/download?version=124785"
 			},
 			"bukkit": {
-				"downloadUrl": "#",
-				"directDownloadUrl": "#"
+				"downloadUrl": "https://dev.bukkit.org/projects/wireless-redstone/files/956206",
+				"directDownloadUrl": "https://dev.bukkit.org/projects/wireless-redstone/files/956206/download"
 			},
 			"changelog": "#Support for MC 1.11."
-		},
-		"2.6.5": {
-			"spigot": {
-				"downloadUrl": "https://www.spigotmc.org/resources/wireless-redstone.8251/update?update=124523",
-				"directDownloadUrl": "#"
-			},
-			"bukkit": {
-				"downloadUrl": "#",
-				"directDownloadUrl": "#"
-			},
-			"changelog": "#Fix first-start issue."
 		}
 	}
 }
