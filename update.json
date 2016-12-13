@@ -1,7 +1,7 @@
 {
 	"latest": {
 		"bukkitversion": "2.6.7",
-		"spigotversion": "3.0.0"
+		"spigotversion": "3.0.0-beta"
 	},
 
 	"versions": {
@@ -18,8 +18,8 @@
 		},
 		"3.0.0-beta": {
 			"spigot": {
-				"downloadUrl": "#",
-				"directDownloadUrl": "#"
+				"downloadUrl": "https://github.com/WirelessRedstoneGroup/WirelessRedstone/releases/tag/v3.0.0-beta",
+				"directDownloadUrl": "https://github.com/WirelessRedstoneGroup/WirelessRedstone/releases/download/v3.0.0-beta/WirelessRedstone.jar"
 			},
 			"bukkit": {
 				"downloadUrl": "#",
