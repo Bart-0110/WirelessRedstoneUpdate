@@ -1,7 +1,7 @@
 {
 	"latest": {
 		"bukkitversion": "2.6.7",
-		"spigotversion": "3.1.0-beta"
+		"spigotversion": "3.0.0-beta"
 	},
 
 	"versions": {
@@ -16,7 +16,7 @@
 			},
 			"changelog": "#Rewrite the plugin. #Update some technical mechanics."
 		},
-		"3.1.0-beta": {
+		"3.0.0-beta": {
 			"spigot": {
 				"downloadUrl": "#",
 				"directDownloadUrl": "#"
