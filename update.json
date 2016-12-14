@@ -1,7 +1,7 @@
 {
 	"latest": {
 		"bukkitversion": "2.6.7",
-		"spigotversion": "3.0.0-beta"
+		"spigotversion": "2.6.7"
 	},
 
 	"versions": {
@@ -14,18 +14,7 @@
 				"downloadUrl": "#",
 				"directDownloadUrl": "#"
 			},
-			"changelog": "#Rewrite the plugin. #Update some technical mechanics."
-		},
-		"3.0.0-beta": {
-			"spigot": {
-				"downloadUrl": "https://github.com/WirelessRedstoneGroup/WirelessRedstone/releases/tag/v3.0.0-beta",
-				"directDownloadUrl": "https://github.com/WirelessRedstoneGroup/WirelessRedstone/releases/download/v3.0.0-beta/WirelessRedstone.jar"
-			},
-			"bukkit": {
-				"downloadUrl": "#",
-				"directDownloadUrl": "#"
-			},
-			"changelog": "#Rewrite the plugin. #Update some technical mechanics."
+			"changelog": "#Rewrite the plugin. #Prioritize cache so it reduces IO request."
 		},
 		"2.6.7": {
 			
