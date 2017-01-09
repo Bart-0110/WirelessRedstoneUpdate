@@ -1,43 +1,20 @@
 {
 	"latest": {
-		"bukkitversion": "3.0.0-beta.2",
-		"spigotversion": "3.0.0-beta.2"
+		"bukkitversion": "3.0.1",
+		"spigotversion": "3.0.1"
 	},
 
 	"versions": {
-		"3.0.0": {
+		"3.0.1": {
 			"spigot": {
-				"downloadUrl": "#",
+				"downloadUrl": "https://www.spigotmc.org/resources/wirelessredstone.8251/update?update=137069",
 				"directDownloadUrl": "#"
 			},
 			"bukkit": {
-				"downloadUrl": "#",
+				"downloadUrl": "https://dev.bukkit.org/projects/wireless-redstone/files/2365759",
 				"directDownloadUrl": "#"
 			},
-			"changelog": "#Rewrite the plugin. #Prioritize cache so it reduces IO request."
-		},
-		"3.0.0-beta.2": {
-			"spigot": {
-				"downloadUrl": "https://github.com/WirelessRedstoneGroup/WirelessRedstone/releases/tag/v3.0.0-beta.2",
-				"directDownloadUrl": "#"
-			},
-			"bukkit": {
-				"downloadUrl": "https://github.com/WirelessRedstoneGroup/WirelessRedstone/releases/tag/v3.0.0-beta.2",
-				"directDownloadUrl": "#"
-			},
-			"changelog": "#Fix some exceptions."
-		},
-		"2.6.7": {
-			
-			"spigot": {
-				"downloadUrl": "https://www.spigotmc.org/resources/wireless-redstone.8251/update?update=126406",
-				"directDownloadUrl": "https://www.spigotmc.org/resources/wireless-redstone.8251/download?version=124785"
-			},
-			"bukkit": {
-				"downloadUrl": "https://dev.bukkit.org/projects/wireless-redstone/files/956206",
-				"directDownloadUrl": "https://dev.bukkit.org/projects/wireless-redstone/files/956206/download"
-			},
-			"changelog": "#Support for MC 1.11."
+			"changelog": "#Fix /wrt /wrr /wrs."
 		}
 	}
 }
