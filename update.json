@@ -1,10 +1,21 @@
 {
 	"latest": {
 		"bukkitversion": "3.0.1",
-		"spigotversion": "3.0.1"
+		"spigotversion": "3.0.2"
 	},
 
 	"versions": {
+		"3.0.2": {
+			"spigot": {
+				"downloadUrl": "https://www.spigotmc.org/resources/wirelessredstone.8251/update?update=137982",
+				"directDownloadUrl": "#"
+			},
+			"bukkit": {
+				"downloadUrl": "#",
+				"directDownloadUrl": "#"
+			},
+			"changelog": "#Fix critical null pointer exceptions."
+		},
 		"3.0.1": {
 			"spigot": {
 				"downloadUrl": "https://www.spigotmc.org/resources/wirelessredstone.8251/update?update=137069",
