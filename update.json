@@ -1,17 +1,28 @@
 {
 	"latest": {
-		"bukkitversion": "3.0.1",
-		"spigotversion": "3.0.2"
+		"bukkitversion": "3.0.2",
+		"spigotversion": "3.0.3"
 	},
 
 	"versions": {
+		"3.0.3": {
+			"spigot": {
+				"downloadUrl": "https://www.spigotmc.org/resources/wirelessredstone.8251/update?update=138632",
+				"directDownloadUrl": "#"
+			},
+			"bukkit": {
+				"downloadUrl": "https://dev.bukkit.org/projects/wireless-redstone/files/2369112",
+				"directDownloadUrl": "#"
+			},
+			"changelog": "#Important permission issue fixed. See update page. #Added --nofeedback to the activate command."
+		},
 		"3.0.2": {
 			"spigot": {
 				"downloadUrl": "https://www.spigotmc.org/resources/wirelessredstone.8251/update?update=137982",
 				"directDownloadUrl": "#"
 			},
 			"bukkit": {
-				"downloadUrl": "#",
+				"downloadUrl": "https://dev.bukkit.org/projects/wireless-redstone/files/2367684",
 				"directDownloadUrl": "#"
 			},
 			"changelog": "#Fix critical null pointer exceptions."
