@@ -1,10 +1,21 @@
 {
 	"latest": {
-		"bukkitversion": "3.0.3",
-		"spigotversion": "3.0.3"
+		"bukkitversion": "3.0.4",
+		"spigotversion": "3.0.4"
 	},
 
 	"versions": {
+		"3.0.4": {
+			"spigot": {
+				"downloadUrl": "https://www.spigotmc.org/resources/wirelessredstone.8251/update?update=158530",
+				"directDownloadUrl": "#"
+			},
+			"bukkit": {
+				"downloadUrl": "https://dev.bukkit.org/projects/wireless-redstone/files/2411046",
+				"directDownloadUrl": "#"
+			},
+			"changelog": "#Activate command doesn't return messages when SilentMode is active. #Nullpointers fixed & added new command /wra changelanguage."
+		},
 		"3.0.3": {
 			"spigot": {
 				"downloadUrl": "https://www.spigotmc.org/resources/wirelessredstone.8251/update?update=138632",
