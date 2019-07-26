@@ -1,18 +1,18 @@
 {
-  "latest": {
-    "spigotversion": "4.0.0-beta.8"
-  },
-  "versions": {
-    "4.0.0-beta.8": {
-      "spigot": {
-        "downloadUrl": "https://www.spigotmc.org/resources/wirelessredstone.8251/update?update=158530",
-        "directDownloadUrl": "#"
-      },
-      "changelog": [
-        "Fix ClassCastException 'org.bukkit.craftbukkit.block.CraftBlockState cannot be cast to org.bukkit.block.Sign'",
-        "Fix 'WR sign right click doesn't work on wall signs in MC >1.13'",
-        "Fix an issue where the channel wouldn't go off when the old redstone wire current was <15"
-      ]
+    "latest": {
+        "spigotversion": "4.0.0-beta.8"
+    },
+    "versions": {
+        "4.0.0-beta.8": {
+            "spigot": {
+                "downloadUrl": "https://www.spigotmc.org/resources/wirelessredstone.8251/update?update=158530",
+                "directDownloadUrl": "#"
+            },
+            "changelog": [
+                "Fix ClassCastException 'org.bukkit.craftbukkit.block.CraftBlockState cannot be cast to org.bukkit.block.Sign'",
+                "Fix 'WR sign right click doesn't work on wall signs in MC >1.13'",
+                "Fix an issue where the channel wouldn't go off when the old redstone wire current was <15"
+            ]
+        }
     }
-  }
 }
